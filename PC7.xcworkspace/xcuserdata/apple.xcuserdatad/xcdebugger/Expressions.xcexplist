@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ArticleContent.(fetchArticleContent() -&gt; ()).(closure #1):ArticleDetailController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ArticleDetailController.collectionView(UICollectionView, cellForItemAtIndexPath : NSIndexPath) -&gt; UICollectionViewCell:ArticleDetailController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HomeController.collectionView(UICollectionView, cellForItemAtIndexPath : NSIndexPath) -&gt; UICollectionViewCell:HomeController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ArticleContent.setupViews() -&gt; ():ArticleDetailController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
